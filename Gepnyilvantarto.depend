@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1779609404 source:f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\autobusz.cpp
+	"autobusz.hpp"
+
+1779609404 f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\autobusz.hpp
+	<iostream>
+	"auto.hpp"
+
+1779614560 f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\auto.hpp
+	<string>
+
+1779609404 source:f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\munkagep.cpp
+	"munkagep.hpp"
+
+1779609404 f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\munkagep.hpp
+	<iostream>
+	"auto.hpp"
+
+1779609404 source:f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\teherauto.cpp
+	"teherauto.hpp"
+
+1779609404 f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\teherauto.hpp
+	<iostream>
+	"auto.hpp"
+
+1779616926 source:f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\menu.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"menu.hpp"
+	"auto.hpp"
+	"autobusz.hpp"
+	"munkagep.hpp"
+	"teherauto.hpp"
+
+1779608516 f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\menu.hpp
+	<array>
+	"auto.hpp"
+
+1779533017 source:f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\main.cpp
+	<iostream>
+	<clocale>
+	"menu.hpp"
+
+1779537315 source:f:\család\csabi\fõiskola\iv\c++\otthoni gyakorlás\gepnyilvantarto\auto.cpp
+	<iostream>
+	"auto.hpp"
+
